@@ -1,0 +1,18 @@
+div {
+    position: relative;
+    float: left;
+}
+
+.main {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.col3 {
+    width: 33%;
+    padding: 3px;
+    background-color: bisque;
+    position: relative;
+    float: left;
+}
