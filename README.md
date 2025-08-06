@@ -1,7 +1,7 @@
 # RSI Module Generator
 
 
-NOTE: DOWNLOAD ANDE RENAME MAIN FOLDER TO: rsi_generator
+NOTE: DOWNLOAD AND RENAME MAIN FOLDER TO: rsi_generator
 RSI Module Generator is a PrestaShop module that allows you to create custom modules with multiple options, ready to modify and use. Unlike the official generator, this one includes a broader set of configurable fields and reusable options to speed up the development of new modules.
 
 ---
